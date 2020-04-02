@@ -1,12 +1,12 @@
-## An Application of Symbolic Computation to Quasi-Monte Carlo Integration
+### An Application of Symbolic Computation to Quasi-Monte Carlo Integration
 
-We compute the base $b$ Walsh coefficients of the joint pdf of two distinct points randomly chosen from a scrambled $(0,m,s)$-net in base $b$ and use them to obtain a reasonable expression for $\cov(f(\BFU_I), f(\BFU_J))$ in terms of the Walsh coefficients of the function $f$ over the unit hypercube. From there, we illustrate that algorithms from symbolic computation have a good chance of simplifying the sum to certain closed forms for analysis. In this way, we were able to further show that under a reasonable assumption on the decay of the Walsh coefficients of $f$ that $\cov(f(\BFU_I),f(\BFU_J))\leq 0$. Thus, the randomized Quasi-Monte Carlo (RQMC) estimator for the integral of such functions based on scrambled $(0,m,s)$-nets in base $b$ will do no worse than the Monte-Carlo (MC) estimator based on the same number of points. One of the features of this paper is to reveal how symbolic computation methods can be conducive to the computations that arise in the area of Quasi-Monte Carlo integration.
+We compute the base $$b$$ Walsh coefficients of the joint pdf of two distinct points randomly chosen from a scrambled $$(0,m,s)$$-net in base $$b$$ and use them to obtain a reasonable expression for $$\mbox{Cov}(f(\textbf{U}_I),f(\textbf{U}_J))$$ in terms of the Walsh coefficients of the function $$f$$ over the unit hypercube. From there, we illustrate that algorithms from symbolic computation have a good chance of simplifying the sum to certain closed forms for analysis. In this way, we were able to further show that under a reasonable assumption on the decay of the Walsh coefficients of $$f$$ that $$\mbox{Cov}(f(\textbf{U}_I),f(\textbf{U}_J))\leq 0$$. Thus, the randomized Quasi-Monte Carlo (RQMC) estimator for the integral of such functions based on scrambled $$(0,m,s)$$-nets in base $$b$$ will do no worse than the Monte-Carlo (MC) estimator based on the same number of points. One of the features of this paper is to reveal how symbolic computation methods can be conducive to the computations that arise in the area of Quasi-Monte Carlo integration.
 
 Authors:
 
-Jaspar Wiart, Austrian Academy of Sciences, RICAM and Johannes Kepler University, jaspar.wiart@jku.at
+Jaspar Wiart, RICAM and Johannes Kepler University, jaspar.wiart@jku.at
 
-Elaine Wong, Austrian Academy of Sciences, RICAM, elaine.wong@ricam.oeaw.ac.at
+Elaine Wong, RICAM, elaine.wong@ricam.oeaw.ac.at
 
 ### Files
 
