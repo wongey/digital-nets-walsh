@@ -12,7 +12,9 @@ Elaine Wong, RICAM, elaine.wong@ricam.oeaw.ac.at
 
 ### Files
 
-digital-nets-walsh files
+Our paper is currently available as a preprint in the form of a [RICAM technical report.](https://www.ricam.oeaw.ac.at/files/reports/20/rep20-24.pdf)
+
+digital-nets-walsh Mathematica files (coming soon)
 
 ### Links to References
 
