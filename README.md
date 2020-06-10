@@ -4,11 +4,11 @@ Authors:
 
 Jaspar Wiart, RICAM and Johannes Kepler University, [jaspar.wiart@jku.at](mailto:jaspar.wiart@jku.at)
 
-Elaine Wong, RICAM, Austrian Academy of Sciences, [elaine.wong@ricam.oeaw.ac.at](mailto:elaine.wong@ricam.oeaw.ac.at)
+Elaine Wong, Austrian Academy of Sciences, RICAM, [elaine.wong@ricam.oeaw.ac.at](mailto:elaine.wong@ricam.oeaw.ac.at)
 
 ### Files
 
-Our paper is currently available as a preprint in the form of a [RICAM technical report.](https://www.ricam.oeaw.ac.at/files/reports/20/rep20-24.pdf)
+Our paper is currently available as a preprint in the form of a [RICAM technical report.](https://www.ricam.oeaw.ac.at/files/reports/20/rep20-24.pdf) It has been submitted for publication.
 
 The Mathematica notebook containing all computations for the paper is [available for download](https://wongey.github.io/digital-nets-walsh/computations.nb). To run this notebook properly, the followng Mathematica packages must be installed: [Guess](https://www3.risc.jku.at/research/combinat/software/ergosum/RISC/Guess.html), [HolonomicFunctions](https://www3.risc.jku.at/research/combinat/software/ergosum/RISC/HolonomicFunctions.html), and [Sigma](https://www3.risc.jku.at/research/combinat/software/Sigma/index.php). Furthermore, some objects took a long time to compute. We include it here for your convenience (must be saved in the same directory as the notebook): [ctouter2](https://wongey.github.io/digital-nets-walsh/ctouter2.m) and [R2](https://wongey.github.io/digital-nets-walsh/R2.m).
 
