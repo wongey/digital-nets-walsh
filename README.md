@@ -40,12 +40,12 @@ Saunders, eds.
 
 11. A. B. Owen, [Variance and discrepancy with alternative scramblings.](https://dl.acm.org/doi/10.1145/945511.945518) ACM Transactions on Modeling and Computer Simulation 13 (2003), 363–378.
 
-12. M. Petkovsek, H. S. Wilf, and D. Zeilberger, [A=B.](https://www.math.upenn.edu/~wilf/AeqB.html) A K Peters/CRC Press, 1996.
+12. C. Schneider, [Symbolic summation assists combinatorics.](http://www.risc.jku.at/research/combinat/software/Sigma/) Séminaire Lotharingien de Combinatoire 56 (2007), 1–36. Article B56b.
 
-13. C. Schneider, [Symbolic summation assists combinatorics.](http://www.risc.jku.at/research/combinat/software/Sigma/) Séminaire Lotharingien de Combinatoire 56 (2007), 1–36. Article B56b.
+13. J. L. Walsh, [A closed set of normal orthogonal functions.](https://www.semanticscholar.org/paper/A-Closed-Set-of-Normal-Orthogonal-Functions-Walsh/ad391e1110899d902f912d649fb05bd83f12781e) Amer. J. Math. 45 (192211).
 
-14. J. L. Walsh, [A closed set of normal orthogonal functions.](https://www.semanticscholar.org/paper/A-Closed-Set-of-Normal-Orthogonal-Functions-Walsh/ad391e1110899d902f912d649fb05bd83f12781e) Amer. J. Math. 45 (192211).
+14. J. Wiart, C. Lemieux, and G. Dong, [On the dependence structure of scrambled (t, m, s)-nets.](https://arxiv.org/abs/1903.09877) arXiv e-prints (2019), submitted for publication (arXiv:1903.09877).
 
-15. J. Wiart, C. Lemieux, and G. Dong, [On the dependence structure of scrambled (t, m, s)-nets.](https://arxiv.org/abs/1903.09877) arXiv e-prints (2019), submitted for publication (arXiv:1903.09877).
+15. D. Zeilberger, [The method of creative telescoping.](https://www.sciencedirect.com/science/article/pii/S0747717108800442) Journal of Symbolic Computation 11 (1991), 195-204.
 
 <script src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML" type="text/javascript"></script>
