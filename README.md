@@ -1,18 +1,25 @@
 We investigate base $$b$$ Walsh functions for which the variance of the integral estimator based on a scrambled $$(0,m,s)$$-net in base $$b$$ is less than or equal to that of the Monte-Carlo estimator based on the same number of points.  First we compute the Walsh decomposition for the joint probability density function of two distinct points randomly chosen from a scrambled $$(t,m,s)$$-net in base $$b$$ in terms of certain counting numbers and simplify it in the special case $$t$$ is zero. Using this, we obtain an expression for the covariance of the integral estimator in terms of the Walsh coefficients of the function. Finally, we prove that the covariance of the integral estimator is negative when the Walsh coefficients of the function satisfy a certain decay condition. To do this, we use creative telescoping and recurrence solving algorithms from symbolic computation to find a sign equivalent closed form expression for the covariance term.
 
-Authors:
+### Authors
 
-Jaspar Wiart, RICAM and Johannes Kepler University, [jaspar.wiart@jku.at](mailto:jaspar.wiart@jku.at)
+- Jaspar Wiart, RICAM and Johannes Kepler University, [jaspar.wiart@jku.at](mailto:jaspar.wiart@jku.at)
 
-Elaine Wong, Austrian Academy of Sciences, RICAM, [elaine.wong@ricam.oeaw.ac.at](mailto:elaine.wong@ricam.oeaw.ac.at)
+- Elaine Wong, Austrian Academy of Sciences, RICAM, [elaine.wong@ricam.oeaw.ac.at](mailto:elaine.wong@ricam.oeaw.ac.at)
 
 ### Files
 
-This paper has been submitted for publication (preprint on [arXiv:2006.06225](https://arxiv.org/abs/2006.06225)). 
+- This paper has been submitted for publication (preprint on [arXiv:2006.06225](https://arxiv.org/abs/2006.06225)). 
 
-The Mathematica notebook containing all computations for the paper is [available for download](https://wongey.github.io/digital-nets-walsh/computations.nb). To run this notebook properly, the followng Mathematica packages must be installed: [Guess](https://www3.risc.jku.at/research/combinat/software/ergosum/RISC/Guess.html), [HolonomicFunctions](https://www3.risc.jku.at/research/combinat/software/ergosum/RISC/HolonomicFunctions.html), and [Sigma](https://www3.risc.jku.at/research/combinat/software/Sigma/index.php). Furthermore, some objects took a long time to compute. We include it here for your convenience (must be saved in the same directory as the notebook): [ctouter2](https://wongey.github.io/digital-nets-walsh/ctouter2.m) and [R2](https://wongey.github.io/digital-nets-walsh/R2.m).
+- The Mathematica notebook containing all computations for the paper is [available for download](https://wongey.github.io/digital-nets-walsh/computations.nb). To run this notebook properly, the following Mathematica packages must be installed:
+  - [Guess](https://www3.risc.jku.at/research/combinat/software/ergosum/RISC/Guess.html),
+  - [HolonomicFunctions](https://www3.risc.jku.at/research/combinat/software/ergosum/RISC/HolonomicFunctions.html),
+  - [Sigma](https://www3.risc.jku.at/research/combinat/software/Sigma/index.php).
 
-For those without a Mathematica installation, we offer a [pdf version](https://wongey.github.io/digital-nets-walsh/computations.pdf) of the notebook.
+- Furthermore, some objects took a long time to compute. We include it here for your convenience (must be saved in the same directory as the notebook): 
+  - [ctouter2](https://wongey.github.io/digital-nets-walsh/ctouter2.m),
+  - [R2](https://wongey.github.io/digital-nets-walsh/R2.m).
+
+- For those without a Mathematica installation, we offer a [pdf version](https://wongey.github.io/digital-nets-walsh/computations.pdf) of the notebook.
 
 ### Links to References
 
