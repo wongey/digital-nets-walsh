@@ -4,7 +4,7 @@ We investigate base $$b$$ Walsh functions for which the variance of the integral
 
 - Jaspar Wiart, RICAM and Johannes Kepler University, [jaspar.wiart@jku.at](mailto:jaspar.wiart@jku.at)
 
-- Elaine Wong, Austrian Academy of Sciences, RICAM, [elaine.wong@ricam.oeaw.ac.at](mailto:elaine.wong@ricam.oeaw.ac.at)
+- [Elaine Wong](https://www.ricam.oeaw.ac.at/people/member/?firstname=Elaine&lastname=Wong), Austrian Academy of Sciences, RICAM, [elaine.wong@ricam.oeaw.ac.at](mailto:elaine.wong@ricam.oeaw.ac.at)
 
 ### Files
 
