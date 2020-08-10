@@ -21,6 +21,10 @@ We investigate base $$b$$ Walsh functions for which the variance of the integral
 
 - For those without a Mathematica installation, we offer a [pdf version](https://wongey.github.io/digital-nets-walsh/computations.pdf) of the notebook.
 
+### [CASC 2020](http://www.casc-conference.org/2020/)
+
+- Elaine will give a talk at CASC 2020 discussing the symbolic computation aspects of this paper. The extended abstract, slides, and video from the talk will be posted here afterwards.
+
 ### Links to References
 
 1. J. Dick  and  F. Pillichshammer. [Digital  nets  and  sequences:  Discrepancy  theory  and  quasi-monte carlo integration.](https://www.cambridge.org/core/books/digital-nets-and-sequences/8EB7ECB56318388BF9FA3504801D2A59#) UK: Cambridge University Press, 2010.
