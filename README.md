@@ -23,7 +23,9 @@ We investigate base $$b$$ Walsh functions for which the variance of the integral
 
 ### [CASC 2020](http://www.casc-conference.org/2020/)
 
-- Elaine will give a talk at CASC 2020 discussing the symbolic computation aspects of this paper. The extended abstract, slides, and video from the talk will be posted here afterwards.
+- Elaine <strike> will give </strike> [gave a talk](http://www.casc-conference.org/2020/schedule.html) at CASC 2020 discussing the symbolic computation aspects of this paper.
+  - [Static Slides](https://wongey.github.io/digital-nets-walsh/talkslides_noanimation.pdf)
+  - [Extended Abstract](https://wongey.github.io/digital-nets-walsh/extendedabstract.pdf)
 
 ### Links to References
 
