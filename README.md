@@ -59,6 +59,8 @@ Saunders, eds.
 
 14. J. Wiart, C. Lemieux, and G. Dong, [On the dependence structure of scrambled (t, m, s)-nets.](https://arxiv.org/abs/1903.09877) arXiv e-prints (2019), submitted for publication (arXiv:1903.09877).
 
-15. D. Zeilberger, [The method of creative telescoping.](https://www.sciencedirect.com/science/article/pii/S0747717108800442) Journal of Symbolic Computation 11 (1991), 195-204.
+15.  D. Zeilberger, [A holonomic systems approach functions identities](https://www.sciencedirect.com/science/article/pii/037704279090042X), Journal of Computational and Applied Mathematics 32 (1990), 321–368.
+
+16. D. Zeilberger, [The method of creative telescoping.](https://www.sciencedirect.com/science/article/pii/S0747717108800442) Journal of Symbolic Computation 11 (1991), 195-204.
 
 <script src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML" type="text/javascript"></script>
