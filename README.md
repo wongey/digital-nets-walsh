@@ -40,7 +40,7 @@ Daalhuis, D. W. Lozier, B. I. Schneider, R. F. Boisvert, C. W. Clark, B. R. Mill
 
 3. M. Kauers, [Guessing Handbook.](http://www.risc.jku.at/research/combinat/software/Guess/) Technical Report 09-07, RISC Report Series, Johannes Kepler University, Linz, Austria, 2009.
 
-4. C. Koutschan, [Advanced Applications of the Holonomic Systems Approach.](http://koutschan.de/publ/Koutschan09/thesisKoutschan.pdf), Ph.D. Thesis, Linz, Austria, 2009.
+4. C. Koutschan, [Advanced Applications of the Holonomic Systems Approach.](http://koutschan.de/publ/Koutschan09/thesisKoutschan.pdf) Ph.D. Thesis, Linz, Austria, 2009.
 
 5. C. Koutschan, [HolonomicFunctions User’s Guide.](http://www.risc.jku.at/publications/download/risc_3934/hf.pdf) Technical Report 10-01, RISC Report Series, Johannes Kepler University, Linz, Austria, 2010.
 
@@ -52,7 +52,7 @@ Daalhuis, D. W. Lozier, B. I. Schneider, R. F. Boisvert, C. W. Clark, B. R. Mill
 
 9. A. B. Owen, [Scrambled Net Variance for Integrals of Smooth Functions.](https://projecteuclid.org/euclid.aos/1031594731) The Annals of Statistics 25 (1997), No. 4, 1541–1562.
 
-10. A. B. Owen, [Randomly Permuted (t, m, s)-nets and (t, s)-sequences.](https://link.springer.com/chapter/10.1007%2F978-1-4612-2552-2_19) Monte Carlo and Quasi-Monte Carlo Methods in Scientific Computing, 1995, pp. 299–317.
+10. A. B. Owen, [Randomly Permuted $$(t, m, s)$$-nets and $$(t, s)$$-sequences.](https://link.springer.com/chapter/10.1007%2F978-1-4612-2552-2_19) Monte Carlo and Quasi-Monte Carlo Methods in Scientific Computing, 1995, pp. 299–317.
 
 11. A. B. Owen, [Variance and Discrepancy with Alternative Scramblings.](https://dl.acm.org/doi/10.1145/945511.945518) ACM Transactions on Modeling and Computer Simulation 13 (2003), 363–378.
 
@@ -60,7 +60,7 @@ Daalhuis, D. W. Lozier, B. I. Schneider, R. F. Boisvert, C. W. Clark, B. R. Mill
 
 13. J. L. Walsh, [A Closed Set of Normal Orthogonal Functions.](https://www.semanticscholar.org/paper/A-Closed-Set-of-Normal-Orthogonal-Functions-Walsh/ad391e1110899d902f912d649fb05bd83f12781e) Amer. J. Math. 45 (192211).
 
-14. J. Wiart, C. Lemieux, and G. Dong, [On the Dependence Structure of Scrambled (t, m, s)-nets.](https://arxiv.org/abs/1903.09877) arXiv e-prints (2019), submitted for publication (arXiv:1903.09877).
+14. J. Wiart, C. Lemieux, and G. Dong, [On the Dependence Structure of Scrambled $$(t, m, s)$$-nets.](https://arxiv.org/abs/1903.09877) arXiv e-prints (2019), submitted for publication (arXiv:1903.09877).
 
 15.  D. Zeilberger, [A Holonomic Systems Approach to Special Functions Identities.](https://www.sciencedirect.com/science/article/pii/037704279090042X) Journal of Computational and Applied Mathematics 32 (1990), 321–368.
 
