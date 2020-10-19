@@ -11,18 +11,21 @@ We investigate base $$b$$ Walsh functions for which the variance of the integral
 - This paper has been submitted for publication (preprint on [arXiv:2006.06225](https://arxiv.org/abs/2006.06225)). 
 
 - All computations for this paper can be found here:
+
   - (Mathematica Notebook) [computations.nb](https://wongey.github.io/digital-nets-walsh/computations.nb)
   - (PDF Version) [computations.pdf](https://wongey.github.io/digital-nets-walsh/computations.pdf).
-  - To run this notebook properly, the following Mathematica packages must be installed: [Guess](https://www3.risc.jku.at/research/combinat/software/ergosum/RISC/Guess.html),[HolonomicFunctions](https://www3.risc.jku.at/research/combinat/software/ergosum/RISC/HolonomicFunctions.html), [Sigma](https://www3.risc.jku.at/research/combinat/software/Sigma/index.php).
+  - To run this notebook properly, the following Mathematica packages must be installed: [Guess](https://www3.risc.jku.at/research/combinat/software/ergosum/RISC/Guess.html), [HolonomicFunctions](https://www3.risc.jku.at/research/combinat/software/ergosum/RISC/HolonomicFunctions.html), [Sigma](https://www3.risc.jku.at/research/combinat/software/Sigma/index.php).
   - Some pre-computed objects (must be saved in the same directory as the notebook): [ctouter2](https://wongey.github.io/digital-nets-walsh/ctouter2.m), [ctR2](https://wongey.github.io/digital-nets-walsh/R2.m).
 
 ### CASC 2020
 
 - Elaine gave a talk at [CASC 2020](http://www.casc-conference.org/2020/schedule.html) discussing the symbolic computation aspects of this paper:
+
   - [Static Slides](https://wongey.github.io/digital-nets-walsh/talkslides_noanimation.pdf)
   - [Extended Abstract](https://wongey.github.io/digital-nets-walsh/extendedabstract.pdf)
   
 - [Christoph Koutschan](http://koutschan.de/index.php) and Elaine wrote a sequel to this paper for the post proceedings of CASC, highlighting some of the technical details that were not mentioned in the original and showing different ways to speed up computations. This sequel has been submitted for publication (preprint is available as a [RICAM Report](https://www.ricam.oeaw.ac.at/files/reports/20/rep20-43.pdf)). The code is provided here:
+
   - (Mathematica Notebook) [CTsums.nb](https://wongey.github.io/digital-nets-walsh/CTsums.nb)
   - (PDF Version) [CTsums.pdf](https://wongey.github.io/digital-nets-walsh/CTsums.pdf)
   - Required packages can be downloaded from [here](https://www3.risc.jku.at/research/combinat/software/ergosum/packages.html).
