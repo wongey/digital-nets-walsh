@@ -17,7 +17,7 @@ We investigate base $$b$$ Walsh functions for which the variance of the integral
   - To run this notebook properly, the following Mathematica packages must be installed: [Guess](https://www3.risc.jku.at/research/combinat/software/ergosum/RISC/Guess.html), [HolonomicFunctions](https://www3.risc.jku.at/research/combinat/software/ergosum/RISC/HolonomicFunctions.html), [Sigma](https://www3.risc.jku.at/research/combinat/software/Sigma/index.php).
   - Some pre-computed objects (must be saved in the same directory as the notebook): [ctouter2](https://wongey.github.io/digital-nets-walsh/ctouter2.m), [ctR2](https://wongey.github.io/digital-nets-walsh/R2.m).
 
-### CASC 2020
+### <a id="casc2020">CASC 2020</a>
 
 - Elaine gave a talk at [CASC 2020](http://www.casc-conference.org/2020/schedule.html) discussing the symbolic computation aspects of this paper:
 
