@@ -23,8 +23,8 @@ We investigate base $$b$$ Walsh functions for which the variance of the integral
 
   - [Static Slides](https://wongey.github.io/digital-nets-walsh/talkslides_noanimation.pdf)
   - [Extended Abstract](https://wongey.github.io/digital-nets-walsh/extendedabstract.pdf)
-  
-- [Christoph Koutschan](http://koutschan.de/index.php) and Elaine wrote a sequel to this paper for the post proceedings of CASC, highlighting some of the technical details that were not mentioned in the original and showing different ways to speed up computations. This sequel has been submitted for publication (preprint on [arXiv:2010.08889](https://arxiv.org/abs/2010.08889)). The code is provided here:
+
+- <a id="cascpp">[Christoph Koutschan](http://koutschan.de/index.php) and Elaine wrote a sequel to this paper for the post proceedings of CASC, highlighting some of the technical details that were not mentioned in the original and showing different ways to speed up computations. This sequel has been submitted for publication (preprint on [arXiv:2010.08889](https://arxiv.org/abs/2010.08889)). The code is provided here:</a>
 
   - (Mathematica Notebook) [CTsums.nb](https://wongey.github.io/digital-nets-walsh/CTsums.nb)
   - (PDF Version) [CTsums.pdf](https://wongey.github.io/digital-nets-walsh/CTsums.pdf)
