@@ -8,7 +8,7 @@ We investigate base $$b$$ Walsh functions for which the variance of the integral
 
 ### Files
 
-- Update (October 29): This paper has been accepted to [Mathematics and Computers in Simulation](https://www.sciencedirect.com/journal/mathematics-and-computers-in-simulation) and is currently in press. The preprint is available here: [arXiv:2006.06225](https://arxiv.org/abs/2006.06225).
+- Update (November 10): This paper has been accepted to [Mathematics and Computers in Simulation](https://www.sciencedirect.com/journal/mathematics-and-computers-in-simulation) and is online with [DOI:10.1016/j.matcom.2020.10.026](https://doi.org/10.1016/j.matcom.2020.10.026). The preprint is available here: [arXiv:2006.06225](https://arxiv.org/abs/2006.06225).
 
 - All computations for this paper can be found here:
 
