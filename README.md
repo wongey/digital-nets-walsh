@@ -24,13 +24,12 @@ We investigate base $$b$$ Walsh functions for which the variance of the integral
   - [Static Slides](https://wongey.github.io/digital-nets-walsh/talkslides_noanimation.pdf)
   - [Extended Abstract](https://wongey.github.io/digital-nets-walsh/extendedabstract.pdf)
 
-- <a id="cascpp">[Christoph Koutschan](http://koutschan.de/index.php) and Elaine wrote a sequel to this paper for the post proceedings of CASC, highlighting some of the technical details that were not mentioned in the original and showing different ways to speed up computations. This sequel has been submitted for publication (preprint at [arXiv:2010.08889](https://arxiv.org/abs/2010.08889)). The code is provided here:</a>
+- <a id="cascpp">[Christoph Koutschan](http://koutschan.de/index.php) and Elaine wrote a sequel to this paper for the post proceedings of CASC, highlighting some of the technical details that were not mentioned in the original and showing different ways to speed up computations. Update (March 17): This sequel has been accepted to the CASC 2020 Special Issue of Springer Mathematics in Computer Science (preprint at [arXiv:2010.08889](https://arxiv.org/abs/2010.08889)). The code is provided here:</a>
 
   - (Mathematica Notebook) [CTsums.nb](https://wongey.github.io/digital-nets-walsh/CTsums.nb)
   - (PDF Version) [CTsums.pdf](https://wongey.github.io/digital-nets-walsh/CTsums.pdf)
   - Required packages can be downloaded from [here](https://www3.risc.jku.at/research/combinat/software/ergosum/packages.html).
   - Some pre-computed objects: [ctouter2](https://wongey.github.io/digital-nets-walsh/ctouter2.m), [ctR2act](https://wongey.github.io/digital-nets-walsh/ctR2act.m), [ctR2](https://wongey.github.io/digital-nets-walsh/ctR2.m), [red22a](https://wongey.github.io/digital-nets-walsh/red22a.m), [red22](https://wongey.github.io/digital-nets-walsh/red22.m)
-  - Most up to date preprint (March 1, 2021): [revision](http://koutschan.de/publ/KoutschanWong20a/main.pdf)
   
 ### Links to References
 
