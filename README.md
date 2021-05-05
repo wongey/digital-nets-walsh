@@ -8,9 +8,7 @@ We investigate base $$b$$ Walsh functions for which the variance of the integral
 
 ### Files
 
-- Update (November 10): This paper has been accepted to [Mathematics and Computers in Simulation](https://www.sciencedirect.com/journal/mathematics-and-computers-in-simulation) and is online with [DOI:10.1016/j.matcom.2020.10.026](https://doi.org/10.1016/j.matcom.2020.10.026). The preprint is available here: [arXiv:2006.06225](https://arxiv.org/abs/2006.06225).
-
-- All computations for this paper can be found here:
+- Update (November 10): This paper has been accepted to [Mathematics and Computers in Simulation](https://www.sciencedirect.com/journal/mathematics-and-computers-in-simulation) and is online with [DOI:10.1016/j.matcom.2020.10.026](https://doi.org/10.1016/j.matcom.2020.10.026). The preprint is available here: [arXiv:2006.06225](https://arxiv.org/abs/2006.06225). The code is provided here:
 
   - (Mathematica Notebook) [computations.nb](https://wongey.github.io/digital-nets-walsh/computations.nb)
   - (PDF Version) [computations.pdf](https://wongey.github.io/digital-nets-walsh/computations.pdf)
@@ -24,7 +22,9 @@ We investigate base $$b$$ Walsh functions for which the variance of the integral
   - [Static Slides](https://wongey.github.io/digital-nets-walsh/talkslides_noanimation.pdf)
   - [Extended Abstract](https://wongey.github.io/digital-nets-walsh/extendedabstract.pdf)
 
-- <a id="cascpp">[Christoph Koutschan](http://koutschan.de/index.php) and Elaine wrote a sequel to this paper for the post proceedings of CASC, highlighting some of the technical details that were not mentioned in the original and showing different ways to speed up computations. Update (March 17): This sequel has been accepted to the CASC 2020 Special Issue of Springer Mathematics in Computer Science (preprint at [arXiv:2010.08889](https://arxiv.org/abs/2010.08889)). The code is provided here:</a>
+- <a id="cascpp">[Christoph Koutschan](http://koutschan.de/index.php) and Elaine wrote a sequel to this paper for the post proceedings of CASC, highlighting some of the technical details that were not mentioned in the original and showing different ways to speed up computations.
+
+- Update (May 4): This sequel has been accepted to the CASC 2020 Special Issue of Springer [Mathematics in Computer Science](https://www.springer.com/journal/11786/) and is online with [DOI:10.1007/s11786-021-00514-3](https://doi.org/10.1007/s11786-021-00514-3). The preprint is available here [arXiv:2010.08889](https://arxiv.org/abs/2010.08889). The code is provided here:</a>
 
   - (Mathematica Notebook) [CTsums.nb](https://wongey.github.io/digital-nets-walsh/CTsums.nb)
   - (PDF Version) [CTsums.pdf](https://wongey.github.io/digital-nets-walsh/CTsums.pdf)
