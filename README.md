@@ -8,13 +8,11 @@ We investigate base $$b$$ Walsh functions for which the variance of the integral
 
 ### Files
 
-- Update (November 10): This paper has been accepted to [Mathematics and Computers in Simulation](https://www.sciencedirect.com/journal/mathematics-and-computers-in-simulation) and is online with [DOI:10.1016/j.matcom.2020.10.026](https://doi.org/10.1016/j.matcom.2020.10.026). The preprint is available here: [arXiv:2006.06225](https://arxiv.org/abs/2006.06225). The code is provided here:
+- Update (November 10, 2020): This paper has been accepted to [Mathematics and Computers in Simulation](https://www.sciencedirect.com/journal/mathematics-and-computers-in-simulation) and is online with [DOI:10.1016/j.matcom.2020.10.026](https://doi.org/10.1016/j.matcom.2020.10.026). The preprint is available here: [arXiv:2006.06225](https://arxiv.org/abs/2006.06225). The Mathematica code can be downloaded from here: [MCSFiles.zip (1MB)](https://drive.google.com/file/d/1w-F5NX9YxLZzEc1YWa0xfoU2PQ_dqu89/view?usp=sharing).
 
-  - (Mathematica Notebook) [computations.nb](https://wongey.github.io/digital-nets-walsh/computations.nb)
   - (PDF Version) [computations.pdf](https://wongey.github.io/digital-nets-walsh/computations.pdf)
   - To run this notebook properly, the following Mathematica packages must be installed: [Guess](https://www3.risc.jku.at/research/combinat/software/ergosum/RISC/Guess.html), [HolonomicFunctions](https://www3.risc.jku.at/research/combinat/software/ergosum/RISC/HolonomicFunctions.html), [Sigma](https://www3.risc.jku.at/research/combinat/software/Sigma/index.php).
-  - Some pre-computed objects (must be saved in the same directory as the notebook): [ctouter2](https://wongey.github.io/digital-nets-walsh/ctouter2.m), [ctR2](https://wongey.github.io/digital-nets-walsh/R2.m).
-
+  
 ### <a id="casc2020">CASC 2020</a>
 
 - Elaine gave a talk at [CASC 2020](http://www.casc-conference.org/2020/schedule.html) discussing the symbolic computation aspects of this paper:
@@ -24,12 +22,10 @@ We investigate base $$b$$ Walsh functions for which the variance of the integral
 
 - <a id="cascpp">[Christoph Koutschan](http://koutschan.de/index.php) and Elaine wrote a sequel to this paper for the post proceedings of CASC, highlighting some of the technical details that were not mentioned in the original and showing different ways to speed up computations.
 
-- Update (May 4): This sequel has been accepted to the CASC 2020 Special Issue of Springer [Mathematics in Computer Science](https://www.springer.com/journal/11786/) and is online with [DOI:10.1007/s11786-021-00514-3](https://doi.org/10.1007/s11786-021-00514-3). The preprint is available here [arXiv:2010.08889](https://arxiv.org/abs/2010.08889). The code is provided here:</a>
+- Update (May 4, 2021): This sequel has been accepted to the CASC 2020 Special Issue of Springer [Mathematics in Computer Science](https://www.springer.com/journal/11786/) and is online with [DOI:10.1007/s11786-021-00514-3](https://doi.org/10.1007/s11786-021-00514-3). The preprint is available here [arXiv:2010.08889](https://arxiv.org/abs/2010.08889). The Mathematica code can be downloaded from here: [CASC2020Files.zip (3MB)](https://drive.google.com/file/d/1Q8g8ECuq0OKMWI2L-lawZ31f2EKVrK0n/view?usp=sharing).
 
-  - (Mathematica Notebook) [CTsums.nb](https://wongey.github.io/digital-nets-walsh/CTsums.nb)
   - (PDF Version) [CTsums.pdf](https://wongey.github.io/digital-nets-walsh/CTsums.pdf)
   - Required packages can be downloaded from [here](https://www3.risc.jku.at/research/combinat/software/ergosum/packages.html).
-  - Some pre-computed objects: [ctouter2](https://wongey.github.io/digital-nets-walsh/ctouter2.m), [ctR2act](https://wongey.github.io/digital-nets-walsh/ctR2act.m), [ctR2](https://wongey.github.io/digital-nets-walsh/ctR2.m), [red22a](https://wongey.github.io/digital-nets-walsh/red22a.m), [red22](https://wongey.github.io/digital-nets-walsh/red22.m)
   
 ### Links to References
 
