@@ -72,7 +72,7 @@ Daalhuis, D. W. Lozier, B. I. Schneider, R. F. Boisvert, C. W. Clark, B. R. Mill
 
 21. K. Wegschaider. [Computer generated proofs of binomial multi-sum identities.](https://www3.risc.jku.at/publications/download/risc_2245/diplom.ps) Ph.D. Thesis, Johannes Kepler University, Linz, Austria (1997).
 
-22. J. Wiart, C. Lemieux, and G. Dong, [On the Dependence Structure of Scrambled $$(t, m, s)$$-nets.](https://arxiv.org/abs/1903.09877) arXiv e-prints (2019), submitted for publication (arXiv:1903.09877).
+22. J. Wiart, C. Lemieux, and G. Dong, [On the Dependence Structure of Scrambled $$(t, m, s)$$-nets.](https://doi.org/10.1515/mcma-2020-2079) Monte Carlo Methods and Applications 27(1), 1-26 (2021).
 
 23. D. Zeilberger, [A Holonomic Systems Approach to Special Functions Identities.](https://www.sciencedirect.com/science/article/pii/037704279090042X) Journal of Computational and Applied Mathematics 32, 321–368 (1990).
 
