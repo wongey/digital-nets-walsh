@@ -26,6 +26,7 @@ We investigate base $$b$$ Walsh functions for which the variance of the integral
 
   - (PDF Version) [CTsums.pdf](https://wongey.github.io/digital-nets-walsh/CTsums.pdf)
   - Required packages can be downloaded from [here](https://www3.risc.jku.at/research/combinat/software/ergosum/packages.html).
+  - Errata (July 2021): Section 3.8 - there is a missing negative sign in front of the given rational function. This is just a typo and the written conclusion holds with the typo fixed.
   
 ### Links to References
 
